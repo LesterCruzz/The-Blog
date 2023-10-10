@@ -798,3 +798,39 @@ body {
 .blogitem img {
   width: 100%;
 }
+
+.blogBtn {
+  margin-top: 2rem;
+}
+
+/* .blogitem .blogBtn:hover {
+  background-color: white;
+  color: black;
+  transition: 0.3s ease;
+} */
+
+.relatedPostItem img {
+  width: 150px;
+  height: 150px;
+  border: 1px solid;
+  object-fit: cover;
+}
+
+.recentItem img {
+  width: 30rem;
+  height: 20rem;
+  object-fit: cover;
+}
+
+.recentItem a {
+  margin-top: 2rem;
+}
+
+nav .menu {
+  display: flex;
+  gap: 1rem;
+}
+
+.header .logo img {
+  width: 3rem;
+}
