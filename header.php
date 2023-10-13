@@ -8,6 +8,7 @@
     <?php wp_head() ?>
 </head>
 <body class="bg-black">
+    
     <div class="header py-6 ">
         <div class="container">
             <div class="headerWrapper flex justify-between items-center border-b mb-4">
